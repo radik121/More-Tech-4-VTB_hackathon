@@ -2,7 +2,11 @@
 Склонируйте репозиторий в рабочую директорию
  
  `git clone https://github.com/paragonov/nap-api.git`
- 
+
+Перейдите в папку с проектом
+
+`cd nap-api.git`
+
 Создайте и запустите образы Docker
 
 `sudo docker-compose up -d --build`
