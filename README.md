@@ -1,3 +1,7 @@
+## Задача
+
+[Профильная лента бизнес-новостей](https://github.com/radik121/More-Tech-4-VTB_hackathon/blob/master/Task%20for%20trek%20DATA.pdf)
+
 ## Установка и запуск
 Склонируйте репозиторий в рабочую директорию
  
